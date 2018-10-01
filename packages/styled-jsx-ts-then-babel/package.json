@@ -14,11 +14,11 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "rimraf": "^2.6.2",
-    "styled-jsx": "^2.2.7",
-    "typescript": "^3.0.1"
+    "styled-jsx": "^3.1.0",
+    "typescript": "^3.1.1"
   },
   "dependencies": {
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1"
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
   }
 }
